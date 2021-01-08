@@ -17,6 +17,14 @@ function runEnter() {
     //prevent page from refreshing
     d3.event.preventDefault();
 
-    
+    // get value property of input elements
+    var inputDate = d3.select("#datetime").property("value");
+    var inputCity = d3.select("#city").property("value");
+    var inputState = d3.select("#state").property("value");
+    var inputCountry = d3.select("#country").property("value");
+    var inputShape = d3.select("#shape").property("value");
+
+    // filter process
+
 }
 
