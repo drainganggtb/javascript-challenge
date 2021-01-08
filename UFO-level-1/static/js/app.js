@@ -51,8 +51,30 @@ function runEnter() {
         var filteredData = tableData.filter(value => value.shape === inputShape);
     }
 
+    //console out filtered data to check if it was correctly filtered
+    console.log(filteredData);
+
+    // reference table body
+    var tbody = d3.select("tbody");
+    // clear table output
+    tbody.html("");
+    
+    // add filtered data into table
+    filteredData.forEach(function(ufo) {
+        console.log(ufo);
+        //append table row for each sighting object
+        var row = tbody.append("tr");
+        //use Object.entries to console.log UFO sightings
+        Object.entries(ufo).forEach(function([key, value]) {
+            console.log(key,value);
+            // append cell to row
+            var cell = row.append("td");
+            cell.text(value);
+        });
+    });
 
 
 
-}
+
+};
 
