@@ -25,6 +25,34 @@ function runEnter() {
     var inputShape = d3.select("#shape").property("value");
 
     // filter process
+    if (inputDate === ""){
+        var filteredData = tableData;
+    }
+    else {
+        var filteredData = tableData.filter(value => value.datetime === inputDate);
+    }
+    // do nothing if no data provided for other filters
+    if (inputCity === ""){}
+    else {
+        var filteredData = tableData.filter(value => value.city === inputCity);
+    }
+    if (inputState === ""){}
+    else {
+        var filteredData = tableData.filter(value => value.state === inputState);
+    }
+
+    if (inputCountry === ""){}
+    else {
+        var filteredData = tableData.filter(value => value.country === inputCountry);
+    }
+
+    if (inputShape === ""){}
+    else {
+        var filteredData = tableData.filter(value => value.shape === inputShape);
+    }
+
+
+
 
 }
 
