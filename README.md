@@ -1,7 +1,7 @@
 # JavaScript & DOM Manipulation
 Using **HTML**, **CSS**, **Javascript**, **d3.js** to create table and filter through data on webpage
 
-![alt text](UFO-regular-and-bonus\static\images\aliensforsure.jpg)
+![alt text](UFO-regular-and-bonus\static\images\aliensforsure.jpg?raw=true)
 
 ## Background
 WAKE UP SHEEPLE!!! The extra-terrestrial menace has arrived on earth, and our database of highly trustworthy encounters and eye-witness reports are all that is needed to corroborate such statements. Once this information reaches wider audiences online, then the matter of if we are alone or not can finally be put to rest.
