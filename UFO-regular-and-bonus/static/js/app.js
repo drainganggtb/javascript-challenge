@@ -27,8 +27,13 @@ tableData.forEach(function(ufoSighting) {
 // create event handlers for clicking button or pressing enter key
 button.on("click", runEnter);
 
-//trigger button click on enter key
-//insert code here
+//trigger button click on enter key using jquery
+$("#form").keyup(function(event) {
+    if (event.keyCode === 13) {
+        $("#filter-btn").click();
+    }
+});
+$("filter-btn").click(runEnter);
 
 
 //create function to run for both events
