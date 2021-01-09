@@ -6,7 +6,7 @@ Using HTML, CSS, Javascript, d3.js to create table and filter through data on we
 ## Background
 WAKE UP SHEEPLE!!! The extra-terrestrial menace has arrived on earth, and our database of highly trustworthy encounters and eye-witness reports are all that is needed to corroborate such statements. Once this information reaches wider audiences online, then the matter of if we are alone or not can finally be put to rest.
 
-However, the issue at hand is the size of the database. as even dedicated interstellar researchers have found it difficult to locate specific reports. In situations like these, the experience of computer-coders is required to make a dynamic table based on the provided dataset. It is crucial that the interface is able to filter the table for specific date, city, state, country, and shape values pertaining to foreign encounters. Also, it is essentail that the languages HTML, CSS, JavaScript, and d3.js are used to create this project, as they are the only languages that xenolinguists have identified as trustworthy. 
+However, the issue at hand is the size of the database, as even dedicated interstellar researchers have found it difficult to locate specific reports. In situations like these, the experience of technological toilers is required to make a dynamic table based on the provided dataset. It is crucial that the interface is able to filter the table for specific date, city, state, country, and shape values pertaining to foreign encounters. Also, it is essentail that the languages HTML, CSS, JavaScript, and d3.js are used to create this project, as they are the only languages that xenolinguists have identified as trustworthy. 
 
 ___________
 ## Navigating this repository
