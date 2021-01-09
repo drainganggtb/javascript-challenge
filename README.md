@@ -1,5 +1,5 @@
 # JavaScript & DOM Manipulation
-Using **HTML**, **CSS**, **Javascript**, **d3.js to create table and filter through data on a [webpage](https://drainganggtb.github.io/javascript-challenge/).
+Using **HTML**, **CSS**, **Javascript**, **d3.js** to create table and filter through data on a [webpage](https://drainganggtb.github.io/javascript-challenge/).
 
 ![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/static/images/aliensforsure.jpg?raw=true)
 
