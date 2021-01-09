@@ -1,6 +1,7 @@
 # JavaScript & DOM Manipulation
 Using HTML, CSS, Javascript, d3.js to create table and filter through data on webpage
 
+![alt text](UFO-regular-and-bonus\static\images\aliensforsure.jpg)
 ## Background
 WAKE UP SHEEPLE!!! The extra-terrestrial menace has arrived on earth, and our database of highly trustworthy encounters and eye-witness reports are all that is needed to corroborate such statements. Once this information reaches wider audiences online, then the matter of if we are alone or not can finally be put to rest.
 
@@ -18,12 +19,12 @@ Aside from the ```index.html``` file which shows the webpage output, the other t
 - Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input
     - The creation of event handlers required using **jQuery** to trigger a button click with the ```Enter``` key.
 - An additional task that was assgined included making multiple search categories
-    - Using multiple ```input``` tages and.or select dropdowns, write JavaScript code so the user can set multiple filters and search for UFO sightings based on the following criteria
-        1. ```date/time```
-        2.```city```
-        3.```state```
-        4.```country```
-        5.```shape```
+    - Using multiple ```input``` tages and.or select dropdowns, write JavaScript code so the user can set multiple filters and search for UFO sightings based on the following criteria  
+  1. `date/time`
+  2. `city`
+  3. `state`
+  4. `country`
+  5. `shape`
 
 ### Dataset
 The dataset used can be found [here](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/js/data.js "UFO Data")
