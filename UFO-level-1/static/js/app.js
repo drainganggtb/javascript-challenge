@@ -7,9 +7,29 @@ var tableData = data;
 var button = d3.select("#filter-btn");
 var form = d3.select("#form");
 
+// reference table body
+var tbody = d3.select("tbody");
+
+// show unfiltered data in table
+tableData.forEach(function(ufoSighting) {
+    console.log(ufoSighting);
+    //append table row for each sighting object
+    var row = tbody.append("tr");
+    //use Object.entries to console.log UFO sightings
+    Object.entries(ufoSighting).forEach(function([key, value]) {
+        console.log(key,value);
+        // append cell to row
+        var cell = row.append("td");
+        cell.text(value);
+    });
+});
+
 // create event handlers for clicking button or pressing enter key
 button.on("click", runEnter);
-form.on("submit", runEnter);
+
+//trigger button click on enter key
+//insert code here
+
 
 //create function to run for both events
 function runEnter() {
@@ -54,8 +74,7 @@ function runEnter() {
     //console out filtered data to check if it was correctly filtered
     console.log(filteredData);
 
-    // reference table body
-    var tbody = d3.select("tbody");
+    
     // clear table output
     tbody.html("");
     
