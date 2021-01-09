@@ -1,7 +1,7 @@
 # JavaScript & DOM Manipulation
 Using **HTML**, **CSS**, **Javascript**, **d3.js to create table and filter through data on webpage
 
-![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/aliensforsure.jpg)
+![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/static/images/aliensforsure.jpg?raw=true)
 
 ## Background
 WAKE UP SHEEPLE!!! The extra-terrestrial menace has arrived on earth, and our database of highly trustworthy encounters and eye-witness reports are all that is needed to corroborate such statements. Once this information reaches wider audiences online, then the matter of if we are alone or not can finally be put to rest.
@@ -28,9 +28,11 @@ Aside from the ```index.html``` file which shows the webpage output, the other t
   4. `country`
   5. `shape`
 
-### Dataset
+### Dataset and Website
 The dataset used can be found [here](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/js/data.js "UFO Data").
+
+The website has been published to GitHub Pages [here](https://drainganggtb.github.io/javascript-challenge/). Due to an update to the repo, the page should display ```index.html``` instead of ```README.md```.
 
 ## Webpage
 The following image shows how the dataset can be filtered. In this example, the only search query provided was that the observation occurred in California.
-![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/webpage.png)
+![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/static/images/webpage.png?raw=true)
