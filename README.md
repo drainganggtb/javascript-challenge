@@ -1,7 +1,7 @@
 # JavaScript & DOM Manipulation
-Using **HTML**, **CSS**, **Javascript**, **d3.js** to create table and filter through data on webpage
+Using **HTML**, **CSS**, **Javascript**, **d3.js to create table and filter through data on webpage
 
-![alt text](UFO-regular-and-bonus\static\images\aliensforsure.jpg?raw=true)
+![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/aliensforsure.jpg)
 
 ## Background
 WAKE UP SHEEPLE!!! The extra-terrestrial menace has arrived on earth, and our database of highly trustworthy encounters and eye-witness reports are all that is needed to corroborate such statements. Once this information reaches wider audiences online, then the matter of if we are alone or not can finally be put to rest.
@@ -10,7 +10,7 @@ However, the issue at hand is the size of the database, as even dedicated inters
 
 ___________
 ## Navigating this repository
-This repository holds all of the code required to fulfill the regular and bonus assignments. All of the project work is contained within the directory folder ```UFO-regular-and-bonus```.
+This repository holds all of the code required to fulfill the regular and bonus assignments. All of the project work is contained within the directory.
 
 Aside from the ```index.html``` file which shows the webpage output, the other tools to create the site, like ```style.css``` are included in the *static* folder. Within that, the ```js``` folder houses the data used to populate the table as well as the code used to respond to user inputs and filter the table (```app.js```).
 
