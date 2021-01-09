@@ -32,4 +32,5 @@ Aside from the ```index.html``` file which shows the webpage output, the other t
 The dataset used can be found [here](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/js/data.js "UFO Data").
 
 ## Webpage
+The following image shows how the dataset can be filtered. In this example, the only search query provided was state: 'ca' 
 ![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/webpage.png)
