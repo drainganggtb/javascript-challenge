@@ -138,6 +138,18 @@ select {
   color: #8e979f;
 }
 
+#filter-btn {
+  background-color: #1b3146;
+  width: 80%;
+  float: center;
+  border: 2px solid #0099CC;
+  border-radius: 6px;
+}
+#filter-btn:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
