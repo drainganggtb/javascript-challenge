@@ -149,7 +149,7 @@ var data = [{
     country: "us",
     shape: "sphere",
     durationMinutes: "2 min",
-    comments: "i&#39m in naples park. last night&#44 my husband and I were sitting outside --neighbors lighting off fireworks etc. We&#39re under a lanai and"
+    comments: "i&#39m in naples park. last night my husband and I were sitting outside --neighbors lighting off fireworks etc. We&#39re under a lanai and"
   },
   {
     datetime: "1/1/2010",
@@ -167,7 +167,7 @@ var data = [{
     country: "us",
     shape: "light",
     durationMinutes: "one minute",
-    comments: "Upper atmosphere object moving south&#44 becoming stationary and later moving east at a high rate of speed."
+    comments: "Upper atmosphere object moving south becoming stationary and later moving east at a high rate of speed."
   },
   {
     datetime: "1/1/2010",
@@ -194,7 +194,7 @@ var data = [{
     country: "us",
     shape: "disk",
     durationMinutes: "8 mins",
-    comments: "We experienced red disk over the falcon&#44 colorado sky within the first minutes of the new year."
+    comments: "We experienced red disk over the falcon colorado sky within the first minutes of the new year."
   },
   {
     datetime: "1/1/2010",
@@ -203,7 +203,7 @@ var data = [{
     country: "us",
     shape: "unknown",
     durationMinutes: "2 minutes",
-    comments: "Orange/Yellow flickering light in the sky with no sound and abrupt changes in direction&#44 below 12&#44000 feet."
+    comments: "Orange/Yellow flickering light in the sky with no sound and abrupt changes in direction below 12000 feet."
   },
   {
     datetime: "1/1/2010",
@@ -383,7 +383,7 @@ var data = [{
     country: "us",
     shape: "circle",
     durationMinutes: "20 mins",
-    comments: "didnt move like a plane or helicopter&#44 too close to be a star."
+    comments: "didnt move like a plane or helicopter too close to be a star."
   },
   {
     datetime: "1/4/2010",
@@ -401,7 +401,7 @@ var data = [{
     country: "us",
     shape: "changing",
     durationMinutes: "abt 1 hour",
-    comments: "Spherical flashing lights&#44 hovering in the northwestern no sound.  ((NUFORC Note:  Possible sighting of celestial body??  PD))"
+    comments: "Spherical flashing lights hovering in the northwestern no sound.  ((NUFORC Note:  Possible sighting of celestial body??  PD))"
   },
   {
     datetime: "1/4/2010",
@@ -599,7 +599,7 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "2-3 minutes",
-    comments: "Very large (747ish) low flying&#44 slow moving (30-50 mph) and absolutely silent triangular object w/3 lights."
+    comments: "Very large (747ish) low flying slow moving (30-50 mph) and absolutely silent triangular object w/3 lights."
   },
   {
     datetime: "1/8/2010",
@@ -635,7 +635,7 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "40 seconds",
-    comments: "A trangular craft with several&#44 large bright lights flew low and quick over the neighborhood"
+    comments: "A trangular craft with several large bright lights flew low and quick over the neighborhood"
   },
   {
     datetime: "1/9/2010",
@@ -707,7 +707,7 @@ var data = [{
     country: "us",
     shape: "formation",
     durationMinutes: "several hours",
-    comments: "Southeast sky early in the evening&#44 Blue&#44 Green and Red Lights.  ((NUFORC Note:  Possible sighting of Sirius??  PD))"
+    comments: "Southeast sky early in the evening Blue Green and Red Lights.  ((NUFORC Note:  Possible sighting of Sirius??  PD))"
   },
   {
     datetime: "1/9/2010",
@@ -743,7 +743,7 @@ var data = [{
     country: "us",
     shape: "sphere",
     durationMinutes: "5 minutes",
-    comments: "Unidentified object roughly spherical&#44 hovering/moving very slowly many lights multiple colors."
+    comments: "Unidentified object roughly spherical hovering/moving very slowly many lights multiple colors."
   },
   {
     datetime: "1/10/2010",
@@ -788,7 +788,7 @@ var data = [{
     country: "us",
     shape: "changing",
     durationMinutes: "15 min",
-    comments: "Object appears and hovers&#44 strange maneuvering."
+    comments: "Object appears and hovers strange maneuvering."
   },
   {
     datetime: "1/10/2010",
@@ -878,7 +878,7 @@ var data = [{
     country: "us",
     shape: "triangle",
     durationMinutes: "5 to 10 sec.",
-    comments: "V shaped extreamly fast&#44 silent and the color was orange."
+    comments: "V shaped extreamly fast silent and the color was orange."
   },
   {
     datetime: "1/11/2010",
@@ -932,7 +932,7 @@ var data = [{
     country: "us",
     shape: "other",
     durationMinutes: "night",
-    comments: "((HOAX??))  a strange ball of fire&#44 like after burners."
+    comments: "((HOAX??))  a strange ball of fire like after burners."
   },
   {
     datetime: "1/12/2010",
@@ -959,7 +959,7 @@ var data = [{
     country: "us",
     shape: "disk",
     durationMinutes: "15minutes",
-    comments: "five glowning globes over waukesha&#44wi"
+    comments: "five glowning globes over waukesha wi"
   },
   {
     datetime: "1/12/2010",
@@ -968,7 +968,7 @@ var data = [{
     country: "us",
     shape: "fireball",
     durationMinutes: "30 seconds",
-    comments: "Fireballs seen from Ceres&#44 California"
+    comments: "Fireballs seen from Ceres California"
   },
   {
     datetime: "1/13/2010",
