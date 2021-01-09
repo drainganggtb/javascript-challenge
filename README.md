@@ -29,4 +29,7 @@ Aside from the ```index.html``` file which shows the webpage output, the other t
   5. `shape`
 
 ### Dataset
-The dataset used can be found [here](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/js/data.js "UFO Data")
+The dataset used can be found [here](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/js/data.js "UFO Data").
+
+## Webpage
+![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/webpage.png)
