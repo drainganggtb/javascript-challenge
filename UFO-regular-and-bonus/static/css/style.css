@@ -150,7 +150,11 @@ select {
   background-color: #008CBA;
   color: white;
 }
-
+.panel-heading {
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-align: center;
+}
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
