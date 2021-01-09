@@ -144,6 +144,7 @@ select {
   float: center;
   border: 2px solid #0099CC;
   border-radius: 6px;
+  margin-bottom: 15px;
 }
 #filter-btn:hover {
   background-color: #008CBA;
