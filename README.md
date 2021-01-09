@@ -1,5 +1,5 @@
 # JavaScript & DOM Manipulation
-Using HTML, CSS, Javascript, d3.js to create table and filter through data on webpage
+Using **HTML**, **CSS**, **Javascript**, **d3.js** to create table and filter through data on webpage
 
 ![alt text](https://github.com/drainganggtb/javascript-challenge/blob/main/UFO-regular-and-bonus/static/images/aliensforsure.jpg)
 
